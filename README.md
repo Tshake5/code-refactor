@@ -2,6 +2,9 @@
 
 ## description 
 this assignment was set up to refactor code for the preexisiting horiseon website in order to imporove the accessibilty of the website. 
+![alt-text](./assets/images/horiseon%20homepage%20SS.gif)
+
+link to webpage: https://tshake5.github.io/code-refactor/
 
 ## User Story
 AS A marketing agency
